@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+
+html, body {
+	font-family: "Lexend", sans-serif;
+
+	background-image: url("https://files.catbox.moe/1h6rfz.gif");
+
+	height: 100%;
+	width: 100%;
+
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#wrap {
+	background-color: #222;
+	opacity: 0.8;
+	border-radius: 40px;
+	padding: 5px 20px;
+	height: 80%;
+	width: 80%;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+#terms {
+	color: gray;
+	text-align: center;
+}
+
+a, li {
+	color: white;
+	font-size: 30px;
+}
